@@ -11,14 +11,14 @@ We used both competitive analysis and heuristic evaluation to find the problems 
 ## Findings
 
 Competitive Analysis
+- Petfinder
+  - Adopters like that they can heart pets that they are interested in potentially adopting. However, sometime the favorites and searches get cleared without any indication for why that occured.
+  - Adopters can filter through who put a pet up for adoption, such as shelters, rescues, or independent users.
 - Adopt-a-Pet
   - Users like the wide variety of pet options that extend beyond cats and dogs.
   - A large issue with the site is the trustworthyness of the website. The cause of this issue seems to be that the website doesn't verify listings, so false listings will be posted and used to steal money from adopters.
   - Some users believed that the messsages that are sent through the website don't actually send.
   - There is no notice is a pet that an adopter is interested in gets adopted. This could be due to rehomers failing to remove their listings after adoption or due to the website not registering that an adoption occured.
-- Petfinder
-  - Adopters like that they can heart pets that they are interested in potentially adopting. However, sometime the favorites and searches get cleared without any indication for why that occured.
-  - Adopters can filter through who put a pet up for adoption, such as shelters, rescues, or independent users.
 - Going to a shelter or rescue
   - Adopters are able to meet the pet immediately before going through with the adoption.
   - Workers at a shelter or rescue are able to fill you in about certain behavioral patterns of a pet.
