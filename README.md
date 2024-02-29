@@ -1,6 +1,6 @@
 # Animal Adopter
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Animal Adopter is a pet adoption website that allows people to put pets up for adoption or adopt a pet.
 
 ## UX Team Members
 
