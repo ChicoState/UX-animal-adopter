@@ -2,15 +2,27 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
+Our goal is to make rehoming and adopting an animal easier for the average person. We want potential adopters to adopt from verified listings, and also make rehoming easier for people who have found a pet they cannot keep themselves.
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+We used both competitive analysis and heuristic evaluation to find the problems that people normally face when using adoption services, as well as find the things that users apreciate about the adoption services that are availble.
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+Competitive Analysis
+- Adopt-a-Pet
+  - Users like the wide variety of pet options that extend beyond cats and dogs.
+  - A large issue with the site is the trustworthyness of the website. The cause of this issue seems to be that the website doesn't verify listings, so false listings will be posted and used to steal money from adopters.
+  - Some users believed that the messsages that are sent through the website don't actually send.
+  - There is no notice is a pet that an adopter is interested in gets adopted. This could be due to rehomers failing to remove their listings after adoption or due to the website not registering that an adoption occured.
+- Petfinder
+  - Adopters like that they can heart pets that they are interested in potentially adopting. However, sometime the favorites and searches get cleared without any indication for why that occured.
+  - Adopters can filter through who put a pet up for adoption, such as shelters, rescues, or independent users.
+- Going to a shelter or rescue
+  - Adopters are able to meet the pet immediately before going through with the adoption.
+  - Workers at a shelter or rescue are able to fill you in about certain behavioral patterns of a pet.
+  - Adopters don't know what's available at the shelter or rescue before going.
 
 ## Conclusions
 
