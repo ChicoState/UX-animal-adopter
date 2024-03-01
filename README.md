@@ -6,7 +6,7 @@ Animal Adopter is a pet adoption website that allows people to put pets up for a
 
 * **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **Natalie Hoffmann(https://github.com/ChicoState/ux-personal-portfolio-a13n20)** - Phase I findings, sketches, personas and scenarios
 
 # User-Centered Design Artifacts
  
