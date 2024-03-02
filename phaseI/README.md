@@ -2,32 +2,29 @@
 
 ## Introduction
 
-Our goal is to make rehoming and adopting an animal easier for the average person. We want potential adopters to adopt from verified listings, and also make rehoming easier for people who have found a pet they cannot keep themselves.
+Our goal is to make rehoming and adopting an animal easier for the average person. We want potential adopters to adopt from verified listings, and also make rehoming easier for people who have found a pet they cannot keep themselves. In the process of achieving these goals, we hope that we can help more pets find their forever home.
 
 ## Methods
 
-We used both competitive analysis and heuristic evaluation to find the problems that people normally face when using adoption services, as well as find the things that users apreciate about the adoption services that are availble.
+As we started our research, we performed multiple different research methods to see what alternative applications do well and what needs improvement. The first part of our analysis was a competitive analysis where we research different applications and alternatives to find pets and put them up for adoption so that we could make note of their strengths and weaknesses and learn from them. We selected four different competitors, each on varying platforms, including a non-software alternative. We rated them on their strengths, weaknesses, quality, and price.
+
+Our second research method we used was heuristic evaluation. We individually conducted the evaluation, two of us evaluating our highest quality competitor, PetFinder, in the process of adopting a pet and one of us evaluating Adopt-a-Pet in the process of putting a pet up for adoption, in order to gain more knowledge about the applications themselves and why they are successful. We rated the competitors on a scale from 1 to 10 in the following categories: visibility of system status, match between system and real world, user control and freedom, consistency and standards, error prevention, recognition rather than recall, flexibility and efficiency for use, aesthetic and minimalist design, help users recognize, diagnose, and recover from errors, and help and documentation. We also made comments on strengths and weaknesses of the application in each of those areas.
+
+For our third, and most recent research method, we created personas and scenarios. The creations of these scenarios and personas allowed to gain insight and how users may be interacting with PetFinder. We simulated users who might use the app and wrote backstories and personalities for them. We each created scenarios in a situation where the persona may be inclined to use our competitor, and how they would go about doing so for their particular goal within the app.
 
 ## Findings
 
-Competitive Analysis
-- Petfinder
-  - Adopters like that they can heart pets that they are interested in potentially adopting. However, sometime the favorites and searches get cleared without any indication for why that occured.
-  - Adopters can filter through who put a pet up for adoption, such as shelters, rescues, or independent users.
-- Adopt-a-Pet
-  - Users like the wide variety of pet options that extend beyond cats and dogs.
-  - A large issue with the site is the trustworthyness of the website. The cause of this issue seems to be that the website doesn't verify listings, so false listings will be posted and used to steal money from adopters.
-  - Some users believed that the messsages that are sent through the website don't actually send.
-  - There is no notice is a pet that an adopter is interested in gets adopted. This could be due to rehomers failing to remove their listings after adoption or due to the website not registering that an adoption occured.
-- Going to a shelter or rescue
-  - Adopters are able to meet the pet immediately before going through with the adoption.
-  - Workers at a shelter or rescue are able to fill you in about certain behavioral patterns of a pet.
-  - Adopters don't know what's available at the shelter or rescue before going.
+Through competitive analysis, we were able to discover many different elements that users either appreciated or found frustrating from our competitors. The things that adopters appreciated were filtering through who the animal is getting posted by, such as shelters, rescues, or independent people, favoriting individual animals that they are interested in adopting, and having a wide variety of animals that extend beyond cats and dogs. Some issues that adopters have with other adoption sites are the trustworthiness of the postings, lack of feedback on whether a message was successfully sent through the site, and not being notified about animals they have favored getting adopted. It is also worth noting that adopters and people who are trying to rehome a pet have the option of going to a shelter or rescue, instead of visiting a website or app. While visiting a shelter or rescue allows an adopter to meet the animal and learn some of the animal’s behavior before adoption, the adopter isn’t guaranteed to know what animals are available.
+
+  Our heuristic evaluation revealed important aspects of both adopting a pet and putting a pet up for adoption. When evaluating PetFinder as an adopter, a couple of categories scored lower than an 8: flexibility and efficiency of use, aesthetic and minimalist design, and helping users recognize, diagnose, and recover from errors. There weren’t very many shortcuts available, and the only way to navigate the site was to search or apply filters, making the site not very flexible or efficient. Some pages had articles that felt like there was an overload of information, which ruined the otherwise minimalist design of the website. The website also doesn’t provide aid in recognizing errors, making the user need to search elsewhere for troubleshooting. When posting a pet up for adoption on Adopt-a-Pet, the only category that scored lower than an 8 was error prevention. Before paying for the listing, there is no way to review the information you have filled in, to ensure that it’s all correct, and the website doesn’t check for consistency between the city, state, and zip code.
+
+  Creating personas and scenarios helped give us some perspective on what exactly people would be using our site for, as well as what type of people would be using it. It was clear that an animal adoption website can have a wide variety of users when it comes to age, gender, location, or other demographic elements. There are also many different reasons for adopting a pet, such as finding your child their first pet, finding a dog that will help make you feel safe when living alone, or finding a companion for a pet you already own.
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+After utilizing competitive analysis, heuristic evaluation, and personas/scenarios to better our website, we gained a better understanding of what users expect from us as well as a better vision of where we want our website to go. Given that we found how inflexible a lot of our competitors’ sites are, we can add shortcuts that make it easier for users to go from one section of our site to another in less time. Based on our personas and scenarios, we also concluded that we need to appeal to various demographics. With a lot of our users being first time pet owners, we decided we will add features that can provide further assistance to new adopters. These features can include filters that allow users to look for specific breeds and sizes. 
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+We have quite a few caveats as we’re still in our first phase. There weren't many competitors to compare to, surprisingly. We only found a small handful with one clear competitor, so we didn’t have lots of resources to research. One significant caveat was that PetFinder required payment upfront for filling out a form to rehome a pet, so we couldn’t perform a heuristic evaluation on our highest competitor for that aspect of the website. We instead evaluated the next-best site, Adopt-a-Pet, surrounding rehoming a pet. Also, we’re still learning about UX so we’re fairly new to these methods of research and evaluation. We also haven’t collected any actual user data yet, so we still have lots to learn.
+
