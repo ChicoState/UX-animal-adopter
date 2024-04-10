@@ -1,21 +1,20 @@
 # Phase II: Refining interaction and designing wireframes
 
 ## Introduction
-
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+  Our goal is to make rehoming and adopting an animal easier for the average person. We want potential adopters to adopt from verified listings, and also make rehoming easier for people who have found a pet they cannot keep themselves. In the process of achieving these goals, we hope that we can help more pets find their forever home. This phase is focused largely on making the website a more convenient experience as well as adding features that can optimize the usage of the website, including a filtering system and communication within the site.
 
 ## Methods
-
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+  During this phase, our primary research methods were informal feedback and cognitive walkthroughs. Informal feedback was collected by the software engineering team during a product demo. The engineering team displayed the state of the website at the time of the demo to fellow Software Engineering students on a projector. The team then asked their fellow students questions based on what they have seen from the demo. For our cognitive walkthroughs, we gave our current wireframes as well as scenarios to fellow UX student evaluators. Other UX students volunteered to perform a cognitive walkthrough using one of three related scenarios. Given the wireframes, the UX student evaluators were given the task of losing each step, in detail, that the persona would take to complete the task given in their corresponding scenario. At each step along the process, the UX student evaluators answered two key questions: will the user know what to do at this step? And, If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal? The evaluators also included other questions that the persona may have while attempting to complete their goal. The evaluators then sent their completed cognitive walkthroughs to the Animal Adopter UX team for review.
 
 ## Findings
-
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+  The informal feedback gave the Animal Adopter UX team more ideas of what potential users would want to see on the site. Many of the suggestions were features that the team had already planned to add to the site, such as adding a pet description, identifying pet compatibility with other pets or children, making an account, and filters. A couple of very interesting suggestions were given, which were adding links to a Wikipedia page or other website for information on how to care for the animal you are viewing, as well as reviews of the shelters or organizations that are on the website. 
+  
+  The cognitive walkthroughs that we received helped the Animal Adopter UX team better understand what sort of tasks that users may have a difficult time completing, such as using the filters. The results from the cognitive walkthroughs also helped to highlight missing or incomplete functionalities within the wireframes. All of the student UX evaluators were able to complete their given scenarios. We discovered that the standard conventions that we adopted were easy for most people to understand. For interesting cases where a person could need to find a home for multiple of the same animal or breed, they would need to fill out the entire form again.
 
 ## Conclusions
-
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+  From the useful insights given to the Animal Adopt UX researchers from the informal feedback and cognitive walkthroughs, there are a couple of features the UX team can consider adding to the website. Most of the suggestions from the informal feedback were already planned for future iterations of the website, but adding shelter reviews would be a really great way to verify the validity of certain accounts. Including links to other websites about pet care for each animal does seem like a great thing to include, but the scope we have may make this feature not feasible. For the cases of adding multiple postings for the same animal breed, we could create a duplicate form button, so the user can start a second form with the same information that can be edited as needed.
 
 ## Caveats
-
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+  Some caveats that came with the informal feedback was that the questions were asked to fellow software engineers, who are able to navigate digital interfaces with ease. The questions asked were also relevant to a more developed version of the website, rather than the state of the site during the day of the demo.
+  
+  One of the biggest caveats for this phase relates to the cognitive walkthroughs that were performed. They were completed by fellow UX students, peers of the UX Animal Adopter team. The UX students may have not had much experience performing cognitive walkthroughs, as it was most likely their first time. Additionally, the set of wireframes could have had a few more wireframes completed before the cognitive walkthroughs were performed, which would have narrowed down the missing features, allowing the results to focus more on general website usability.
