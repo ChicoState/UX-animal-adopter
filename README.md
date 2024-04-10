@@ -35,10 +35,15 @@ The Sketches and Diagrams implement the form fill out feature that users will en
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+ - **Informal feedback** suggested already-planned features, as well as opportunities for improvement of user experience and **satisfaction** for various functionalities, as well as suggestions for new functionalities:
+    - Add information through Wikipedia links.
+    - See shelter reviews being add which would be a great way to **verify the validity** of certain accounts.
+ - **Cognitive Walkthroughs** discovered missing and incomplete features of the website while also highlighting the difficulties that users face when navigating the website. Some highlighted results include:
+    - **Filters** may be difficult for those who are not as technologically informed.
+    - Create a **duplicate form** button that will allow users to start a second form with the same information from a previous one.
+ - **Wireframes** have been modified to support some of the missing features.
+    - Some of the features, such as the Wikipedia links, have been deemed unfeasable.
+
 
 [Full phase II report](phaseII/)
 
