@@ -9,8 +9,6 @@ Animal Adopter is a pet adoption website that allows people to put pets up for a
 * **[Natalie Hoffmann](https://github.com/ChicoState/ux-personal-portfolio-a13n20)** - Phase I findings, sketches, personas and scenarios
 
 # User-Centered Design Artifacts
- 
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
