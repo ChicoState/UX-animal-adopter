@@ -6,7 +6,7 @@ Animal Adopter is an application to make rehoming and adopting an animal easier 
 
 * **[Allan Constanza](https://github.com/ChicoState/ux-personal-portfolio-AllanConstanza)** - Conclusions and Executive Summary
 * **[Madison Webb](https://chicostate.github.io/ux-personal-portfolio-madisonewebb/)** - Personas and Scenarios, Heuristic Evaluation, Phase I Report, Cognitive Walkthrough, Phase II Report, Protocol, Prototype, IRB Submission, Phase III Report
-* **[Natalie Hoffmann](https://chicostate.io/ux-personal-portfolio-a13n20)** - Phase I findings, sketches, personas and scenarios, wireframes, Heuristic Evaluation, Cognitive Walkthrough, Phase II Findings, Protocol, Prototype, Phase III Conclusions and Executive Summary
+* **[Natalie Hoffmann](https://chicostate.github.io/ux-personal-portfolio-a13n20/)** - Phase I findings, sketches, personas and scenarios, wireframes, Heuristic Evaluation, Cognitive Walkthrough, Phase II Findings, Protocol, Prototype, Phase III Conclusions and Executive Summary
 
 # User-Centered Design Artifacts
 
