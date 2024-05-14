@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Animal Adopter is an application to make rehoming and adopting an animal easier for the average person. We want potential adopters to adopt from verified listings and also make rehoming easier for people who have found a pet they cannot keep themselves. In the process of achieving these goals, we hope that we can help more pets find their forever home. This phase is focused largely on conducting a pilot test and gaining insight and feedback from real users.
+Animal Adopter is an application to make rehoming and adopting an animal easier for the average person. We want potential adopters to adopt from verified listings and also make rehoming easier for people who have found a pet they cannot keep themselves. In the process of achieving these goals, we hope that we can help more pets find their forever home. The goal of this phase was to evaluate the navigability and usability of the Animal Adopter application, ensuring that users can effectively use the application's features and provide feedback for improvement.
 
 ## Methods
 
