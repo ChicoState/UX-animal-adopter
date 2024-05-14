@@ -5,7 +5,7 @@ Animal Adopter is a pet adoption website that allows people to put pets up for a
 ## UX Team Members
 
 * **[Allan Constanza](https://github.com/ChicoState/ux-personal-portfolio-AllanConstanza)** - Conclusions and Executive Summary
-* **[Madison Webb](https://github.com/madisonewebb/UX-animal-adopter)** - Analysis and evaluations, phase 1 report
+* **[Madison Webb](https://github.com/madisonewebb/UX-animal-adopter)** - Analysis and Evaluations, Phase I Report, Phase II Report, Protocol, Prototype, IRB Submission, Phase III Report
 * **[Natalie Hoffmann](https://github.com/ChicoState/ux-personal-portfolio-a13n20)** - Phase I findings, sketches, personas and scenarios
 
 # User-Centered Design Artifacts
@@ -51,9 +51,11 @@ The Sketches and Diagrams implement the form fill out feature that users will en
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+ - Animal Adopter **pilot tests** allowed for more insight into a **higher fidelity** version of the website.
+ - **Real users** interacted with a **prototype** of the website, and feedback was recorded.
+    - **Quantitative** and **qualitative** data were received.
+    - Tests showed that standard conventions were easily navigable for most users.
+ - Animal Adopter was received well, but **visible filters** and easier access to **favorites** are desired by participants.
+
 
 [Full phase III report](phaseIII/)
