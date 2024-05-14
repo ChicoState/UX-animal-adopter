@@ -1,6 +1,6 @@
 # Animal Adopter
 
-Animal Adopter is a pet adoption website that allows people to put pets up for adoption or adopt a pet.
+Animal Adopter is an application to make rehoming and adopting an animal easier for the average person. We want potential adopters to adopt from verified listings and also make rehoming easier for people who have found a pet they cannot keep themselves. In the process of achieving these goals, we hope that we can help more pets find their forever home.
 
 ## UX Team Members
 
