@@ -5,7 +5,7 @@ Animal Adopter is a pet adoption website that allows people to put pets up for a
 ## UX Team Members
 
 * **[Allan Constanza](https://github.com/ChicoState/ux-personal-portfolio-AllanConstanza)** - Conclusions and Executive Summary
-* **[Madison Webb](https://github.com/madisonewebb/UX-animal-adopter)** - Personas and Scenarios, Heuristic Evaluation, Phase I Report, Cognitive Walkthrough, Phase II Report, Protocol, Prototype, IRB Submission, Phase III Report
+* **[Madison Webb](https://chicostate.github.io/ux-personal-portfolio-madisonewebb/)** - Personas and Scenarios, Heuristic Evaluation, Phase I Report, Cognitive Walkthrough, Phase II Report, Protocol, Prototype, IRB Submission, Phase III Report
 * **[Natalie Hoffmann](https://github.com/ChicoState/ux-personal-portfolio-a13n20)** - Phase I findings, sketches, personas and scenarios
 
 # User-Centered Design Artifacts
