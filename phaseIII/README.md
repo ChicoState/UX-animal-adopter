@@ -20,4 +20,4 @@ The Pilot Tests revealed that the standard conventions implemented in the websit
 
 ## Caveats
 
-A significant limitation of this study was the selection of participants, who were fellow students from the same Usability Engineering class. This homogeneity may have influenced the findings, potentially overlooking diverse user needs and responses that could emerge from a broader demographic. Additionally, the UX team's inexperience in cconducting pilot tests may have impacted the smooth execution and comprehensive data gathering, suggesting the need for more seasoned oversight in future tests.
+A significant limitation of this study was the selection of participants, who were fellow students from the same Usability Engineering class. This homogeneity may have influenced the findings, potentially overlooking diverse user needs and responses that could emerge from a broader demographic. Additionally, the UX team's inexperience in conducting pilot tests may have impacted the smooth execution and comprehensive data gathering, suggesting the need for more seasoned oversight in future tests.
