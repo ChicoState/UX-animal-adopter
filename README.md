@@ -15,7 +15,7 @@ Animal Adopter is a pet adoption website that allows people to put pets up for a
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/Wireframes.pdf)
-* [Prototype](#)
+* [Prototype](prototype/Prototype.pdf)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
